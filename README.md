@@ -1,4 +1,4 @@
-Arnauld Demoucelle
+Arnauld Demoucelle (艾诺)
 - Third year civil engineering student with a minor in computer science (bachelor).
 - Usually program with Python, but also familiar with C++.
 - Interested in software engineering, forecasting and data science.
